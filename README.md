@@ -48,6 +48,21 @@
 | moisture    | Integer | 水分量の特徴スコア（1〜6） |
 | elastic     | Integer | 弾力の特徴スコア（1〜6） |
 
+
+## 引用のお願い
+研究等で利用された場合は，以下の論文を引用いただけますと幸いです．
+
+```bibtex
+@inproceedings{k.hosoo_2025,
+  title = {柑橘類を対象とした推薦システムの実現に向けた基礎的調査},
+  author = {細尾 佳意 and 岡本 一志 and 原田 慧 and 柴田 淳司 and 軽部 幸起},
+  booktitle = {第39回人工知能学会全国大会論文集},
+  pages = {1Win483-1Win483},
+  year = {2025},
+  doi = {10.11517/pjsai.JSAI2025.0_1Win483}
+}
+```
+
 ## 参考文献
 - mikan-note（柑橘ソムリエ）：みかん図鑑，2024.
   https://booth.pm/ja/items/5977950
